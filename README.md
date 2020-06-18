@@ -16,4 +16,4 @@ Python 기반의 selenium(feat: Chrome Driver)을 사용하여 인스타그램�
   2. 로그인 하기: [:key:login](#getting-started)  
   3. 해쉬태그 검색: [:eyes:hashtag searching](#getting-started)
   4. 피드 가져오기: [:v:get post](#getting-started)
-  5. 좋아요 누르고 댓글달기: [](#getting-started)
+  5. 좋아요 누르고 댓글달기: [:smile:like and comment](#getting-started)
