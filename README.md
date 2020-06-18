@@ -14,5 +14,5 @@ Python 기반의 selenium(feat: Chrome Driver)을 사용하여 인스타그램�
 ### :Instagram
   1. [:star:chrome drive setup](#getting-started)
   2. [:key:login](#getting-started)  
-  3. [hashtag searching](#getting-started)
-  4. [get post](#getting-started)
+  3. [:eyes:hashtag searching](#getting-started)
+  4. [:thumb:get post](#getting-started)
