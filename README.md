@@ -11,7 +11,7 @@ Python 기반의 selenium(feat: Chrome Driver)을 사용하여 인스타그램�
   - Package Manager: [:snake:Anaconda](#deployment)
   - Using Package: [requests, selenium, beautifulsoup4, time, random](#built-with)
   
-### :Instagram
+### :heavy_check_mark:Instagram
   1. [:star:chrome drive setup](#getting-started)
   2. [:key:login](#getting-started)  
   3. [:eyes:hashtag searching](#getting-started)
