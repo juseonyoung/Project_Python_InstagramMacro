@@ -17,3 +17,10 @@ Python 기반의 selenium(feat: Chrome Driver)을 사용하여 인스타그램�
   3. 해쉬태그 검색: [:eyes:hashtag searching](#getting-started)
   4. 피드 가져오기: [:v:get post](#getting-started)
   5. 좋아요 누르고 댓글달기: [:smile:like and comment](#getting-started)
+  
+### :heavy_check_mark:practice
+  1. 크롤링 할 url 주소 가져오기: [:pizza:chrome drive setup](#getting-started)
+  2. 원하는 해쉬태그 이용하여 selenium 접속: [:coffee:login](#getting-started)  
+  3. time sleep이용하여 소스 가져오기: [:dog:hashtag searching](#getting-started)
+  4. selenium으로 페이스북 접속: [:cat:get post](#getting-started)
+
