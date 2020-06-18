@@ -10,3 +10,4 @@ Python 기반의 selenium(feat: Chrome Driver)을 사용하여 인스타그램�
   - IDE Tool: [:computer:Pycharm](#running-the-tests)
   - Package Manager: [:snake:Anaconda](#deployment)
   - Using Package: [requests, selenium, beautifulsoup4, time, random](#built-with)
+  :baby
