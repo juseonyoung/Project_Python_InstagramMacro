@@ -12,7 +12,7 @@ Python 기반의 selenium(feat: Chrome Driver)을 사용하여 인스타그램�
   - Using Package: [requests, selenium, beautifulsoup4, time, random](#built-with)
   
 ### :Instagram
-  1. [chrome drive setup](#getting-started)
-  2. [login](#getting-started)  
+  1. [:star:chrome drive setup](#getting-started)
+  2. [:key:login](#getting-started)  
   3. [hashtag searching](#getting-started)
   4. [get post](#getting-started)
